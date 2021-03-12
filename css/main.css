@@ -548,7 +548,7 @@ pre .coffeescript .title {
   outline: none;
 }
 html {
-  font-family: system-ui, bluu, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif;
+  font-family: bluu, "Microsoft Yahei", "Helvetica Neue", sans-serif;
   font-size: 18px;
 }
 body {
@@ -2366,7 +2366,7 @@ details[codeblock]>div.body .highlight {
   font-weight: 900;
   color: inherit;
   line-height: 1;
-  font-family: system-ui, bluu, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif;
+  font-family: bluu, "Microsoft Yahei", "Helvetica Neue", sans-serif;
 }
 nav.menu {
   margin-top: 0;
