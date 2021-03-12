@@ -38,6 +38,9 @@
     --gap-l: 64px;
   }
 }
+mark {
+  background: #fcf8e3;
+}
 :root {
   --site-bg: #f8f8f8;
   --block: #f2f2f2;
